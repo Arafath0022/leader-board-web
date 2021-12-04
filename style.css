@@ -1,0 +1,38 @@
+body{
+  background-color: #f3f1ff;
+}
+
+.brand-logo{
+    width: 40px;
+    height: 51px;
+}
+
+.logo1{
+    margin-left: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    position: absolute;
+    width: 54px;
+    height: 36px;
+    left: 341px;
+}    
+
+.top-player{
+    color: #562EFF;
+    font-family: 'Poppins', sans-serif;
+}
+
+.img5{
+    width: 56px;
+    height: 56px;
+}
+
+main{
+    max-width: 870px;
+}
+
+.oro{
+    background-color: white;
+}
