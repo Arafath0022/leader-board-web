@@ -36,3 +36,26 @@ main{
 .oro{
     background-color: white;
 }
+
+.navbar-brand{
+    margin-left: 350px;
+}
+
+.collapse{
+    margin-right: 350px;
+}
+
+.imgh{
+    width: 150px;
+    height: 105px;
+}
+
+.h{
+    margin-top: 30px;
+}
+
+.hh{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
